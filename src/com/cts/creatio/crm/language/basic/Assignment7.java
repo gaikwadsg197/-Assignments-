@@ -46,23 +46,6 @@ public class Assignment7 {
 			System.out.println("The loan is denied for "+customerName);
 		}
 		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
 	}
 	
 	
